@@ -1,6 +1,6 @@
 # Começando com GOLang
 
-
+Estou começando a aprender a linguagem GO seguindo a documentação do site, a estrutura das pastas deste projeto podem ficar confusas
 
 - Iniciar track de dependencias
 
